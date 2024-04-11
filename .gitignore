@@ -1,0 +1,10 @@
+__pycache__/
+*/__pycache__/
+
+# VS Code
+.vscode
+
+# Generated files for doc
+docs/build
+docs/auto_examples
+docs/generated
